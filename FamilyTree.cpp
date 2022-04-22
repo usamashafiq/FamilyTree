@@ -470,7 +470,7 @@ int main()
             return 0;
 
         }
-        cout<<"\n\nPress any key to continue.....";
+        cout<<"\n\nPress any key to continue...";
         cin>>c;
     }
 }
